@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/framework-demo" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/manager_cms_client" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/test-rabbitmq-consumer" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/test-rabbitmq-producer" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/xc-govern-center" vcs="svn" />
+    <mapping directory="$PROJECT_DIR$/xc-service-manage-course" vcs="svn" />
+  </component>
+</project>

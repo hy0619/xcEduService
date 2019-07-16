@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/xc-framework-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/xc-framework-utils/pom.xml" />
+        <option value="$PROJECT_DIR$/xc-framework-model/pom.xml" />
+        <option value="$PROJECT_DIR$/xc-framework-common/pom.xml" />
+        <option value="$PROJECT_DIR$/xc-service-api/pom.xml" />
+        <option value="$PROJECT_DIR$/xc-service-manage-cms/pom.xml" />
+        <option value="$PROJECT_DIR$/framework-demo/pom.xml" />
+        <option value="$PROJECT_DIR$/test-rabbitmq-producer/pom.xml" />
+        <option value="$PROJECT_DIR$/test-rabbitmq-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/manager_cms_client/pom.xml" />
+        <option value="$PROJECT_DIR$/xc-service-manage-course/pom.xml" />
+        <option value="$PROJECT_DIR$/xc-govern-center/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_3" default="false" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+  <component name="SvnBranchConfigurationManager">
+    <option name="myConfigurationMap">
+      <map>
+        <entry key="$PROJECT_DIR$/framework-demo">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="trunkUrl" value="https://192.168.10.128/svn/calm/%E5%BE%AE%E4%BF%A1%E5%B9%B3%E5%8F%B0/%E5%9F%BA%E7%A1%80%E6%A1%86%E6%9E%B6/zssi-wxpt/xcEduService01/framework-demo" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/manager_cms_client">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="trunkUrl" value="https://192.168.10.128/svn/calm/%E5%BE%AE%E4%BF%A1%E5%B9%B3%E5%8F%B0/%E5%9F%BA%E7%A1%80%E6%A1%86%E6%9E%B6/zssi-wxpt/xcEduService01/manager_cms_client" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/test-rabbitmq-consumer">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="trunkUrl" value="https://192.168.10.128/svn/calm/%E5%BE%AE%E4%BF%A1%E5%B9%B3%E5%8F%B0/%E5%9F%BA%E7%A1%80%E6%A1%86%E6%9E%B6/zssi-wxpt/xcEduService01/test-rabbitmq-consumer" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/test-rabbitmq-producer">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="trunkUrl" value="https://192.168.10.128/svn/calm/%E5%BE%AE%E4%BF%A1%E5%B9%B3%E5%8F%B0/%E5%9F%BA%E7%A1%80%E6%A1%86%E6%9E%B6/zssi-wxpt/xcEduService01/test-rabbitmq-producer" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/xc-service-manage-course">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="trunkUrl" value="https://192.168.10.128/svn/calm/%E5%BE%AE%E4%BF%A1%E5%B9%B3%E5%8F%B0/%E5%9F%BA%E7%A1%80%E6%A1%86%E6%9E%B6/zssi-wxpt/xcEduService01/xc-service-manage-course" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="mySupportsUserInfoFilter" value="true" />
+  </component>
+  <component name="WebServicesPlugin" addRequiredLibraries="true" />
+</project>
